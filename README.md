@@ -1,0 +1,1 @@
+In this training data analytics project, I used jupyter notebook and python tools(pandas, matplotlib, seaborn) to analyze and visualize information about inflation in Russia in the period from 2013 to 2023. I also made a brief summary using power bi.
